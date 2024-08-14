@@ -13,7 +13,7 @@ Agenda:
 🕒 Time: 2:00 PM - 5:00 PM  
 📍 Location: Esoft Metro Campus, Batticaloa
 
-## Wireframes of the system interface 
+## Event Poster
 
 ![Poster of the event](https://raw.githubusercontent.com/mmsalmanfaris/Event-Building-Portfolio-Using-Git-GitHub/main/Event%20Poster.png)
 
@@ -35,4 +35,4 @@ To begin using the Resources of the Event, follow these steps:
    > [!NOTE]
 > Need clarification, drop a message via [linkedin](https://www.linkedin.com/in/mmsalmanfaris/)
    ```
-4. **Access the Resources**: You can use the slides for your purposes without removing the copyrights.
+Access the Resources: You can use the slides without removing the copyrights.
