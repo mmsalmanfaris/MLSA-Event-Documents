@@ -35,4 +35,4 @@ To begin using the Resources of the Event, follow these steps:
    > [!NOTE]
 > Need clarification, drop a message via [linkedin](https://www.linkedin.com/in/mmsalmanfaris/)
    ```
-Access the Resources: You can use the slides without removing the copyrights.
+
